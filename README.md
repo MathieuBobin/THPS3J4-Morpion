@@ -11,7 +11,7 @@ Description du dossier:
 
 Les fichiers de classe sont tous reliés au fichier app.rb et sont réunis dans le dossier lib/
 
-- player.rb permet de créér des nouveaux joueuts (objets players)
+- player.rb permet de créer des nouveaux joueuRs (objets players)
 - box.rb permet de créer de nouvelles cases pour le jeu avec chacune ses attributs (position et contenu)
 - board.rb permet de créer le plateau de jeu
 - games.rb décrit le contenu de la partie 
